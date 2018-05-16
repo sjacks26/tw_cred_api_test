@@ -1,7 +1,7 @@
 import tweepy
 import json
 
-creds_file = ''
+creds_file = 'creds.txt'
 number_of_pings_per_app = 3
 
 with open(creds_file) as f:
