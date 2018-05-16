@@ -1,0 +1,21 @@
+{"Twitter account": "",
+"Twitter account password": "",
+"apps": [{
+"Twitter app": "",
+"consumer key": "",
+"consumer secret": "",
+"access token": "",
+"access token secret": "",
+"available": False,
+"use note": "In use"
+},
+{
+"Twitter app": "",
+"consumer key": "",
+"consumer secret": "",
+"access token": "",
+"access token secret": "",
+"available": True,
+"use note": ""
+}
+]}
